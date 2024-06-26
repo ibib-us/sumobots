@@ -25,7 +25,7 @@ MAX_SPEED = 0.7
 TURN_SPEED = 0.5
 
 # Turning duration in seconds when searching for opponent
-TURN_DURATION = 0.05
+TURN_DURATION = 0.5
 
 
 ##################################################
